@@ -26,6 +26,4 @@ The dataset used in this project contains 900 rows and 82 columns.
 .
 ├── Housing_Data_Analysing.ipynb
 ├── Housing_Data_Analysis_Final_Report.pdf
-├── Housing_Data_Analysis_Final_Report.html
-├── housing_data_900.csv
 └── README.md
